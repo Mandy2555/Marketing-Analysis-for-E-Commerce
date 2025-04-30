@@ -1,6 +1,3 @@
-# Marketing-Analysis-for-E-Commerce
-This project performs a comprehensive marketing analysis for an e-commerce business using data-driven techniques. It involves customer segmentation, sales trend analysis, RFM analysis, and campaign performance evaluation to derive actionable insights that enhance marketing strategies and improve customer targeting.
-
 # 📊 Marketing Analytics for E-Commerce
 
 This project is a comprehensive marketing analysis of an Indian e-commerce marketplace, inspired by a capstone project from AnalytixLabs. It explores customer behavior, seller performance, product trends, and payment methods to provide actionable business insights using real-world data from Sep 2016 to Oct 2018.
