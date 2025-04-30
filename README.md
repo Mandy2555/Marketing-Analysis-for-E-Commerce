@@ -69,18 +69,17 @@ The project uses the following datasets:
 ## 📂 Project Structure
 
 Marketing-Analytics-Ecommerce/
-├── data/ │ 
-├── CUSTOMERS.csv │
-├── SELLERS.csv │ 
-├── PRODUCTS.csv │ 
-├── ORDERS.csv │
-├── ORDER_ITEMS.csv │ 
-├── ORDER_PAYMENTS.csv │ 
-├── ORDER_REVIEW_RATINGS.csv │
-└── GEO_LOCATION.csv
-├── notebooks/ │ 
-└── marketing_analysis.ipynb 
-├── images/ │
-└── charts_and_graphs.png
+├── data/
+│   ├── CUSTOMERS.csv
+│   ├── SELLERS.csv
+│   ├── PRODUCTS.csv
+│   ├── ORDERS.csv
+│   ├── ORDER_ITEMS.csv
+│   ├── ORDER_PAYMENTS.csv
+│   ├── ORDER_REVIEW_RATINGS.csv
+│   └── GEO_LOCATION.csv
+├── notebooks/
+│   └── marketing_analysis.ipynb
 ├── Final Capstone Project - Marketing Analytics.pdf
-├── README.md 
+├── README.md
+
